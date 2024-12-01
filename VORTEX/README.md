@@ -25,10 +25,9 @@ For more detailed information, please refer to the README file inside the `AI Me
 ## Demo
 
 ## Demo
-
-[Watch the demo video](https://youtu.be/PU0gOykuhL8)
+[Watch the demo video](https://youtu.be/w_Xbv2n-JQQ)
 
 ## Pitch
 
-[Watch the pitch video](https://youtu.be/w_Xbv2n-JQQ)
+[Watch the pitch video](https://youtu.be/PU0gOykuhL8)
 
